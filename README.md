@@ -1,3 +1,4 @@
+# *Smart Foodie*
 *********************************************************
  
     The Smart Foodie app aims to help the average consumer minimize the amount of food that they waste. 
