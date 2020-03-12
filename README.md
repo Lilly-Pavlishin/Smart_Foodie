@@ -5,13 +5,17 @@
     It not only tracks purchases, but also notifies the user if a certain item is about to spoil. 
     Smart Foodie’s capabilities even include suggesting recipes based on the items a user has in stock.
     
-![Company's github image "Food"](./dose-juice-sTPy-oeA3h0-unsplash.jpg)
+  
+  <p align="center">
+  <img src="./dose-juice-sTPy-oeA3h0-unsplash-resized.jpg">
+</p>
+    
 
 <!-- 
 // Tried many things to center the image to no avail
 // DOES NOT WORK
 
-<div style="display: flex; justify-content: center;">
+<!--<div style="display: flex; justify-content: center;">
  <img src="./dose-juice-sTPy-oeA3h0-unsplash.jpg" alt="Company's github image" width="500" height="700">
 </div> 
 -->
